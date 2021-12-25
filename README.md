@@ -2,4 +2,6 @@
 
 by : M. Apriyandi Wiryatama
 
-![Tugas_Api](Video-Aplikasi-Berjalan.mp4)
+
+Uploading Video Aplikasi Berjalan.mp4…
+
